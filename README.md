@@ -77,12 +77,4 @@ Full ML pipeline
 
 Web development with Flask
 
-📬 Contact
 
-Made with ❤️ by Himanshu Jagga
-
-LinkedIn - https://www.linkedin.com/in/himanshu-jagga-b08ab6170/
-
-GitHub - https://github.com/HimanshuJagga
-
-Email - himanshujagga97@gmail.com
