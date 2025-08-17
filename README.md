@@ -37,6 +37,7 @@ This project simulates a real-world HR tool that:
    ```bash
    pip install -r requirements.txt
 3. Run the Flask app:
+   ```bash
    python app.py
 4. Open in browser:
    http://127.0.0.1:5000/
