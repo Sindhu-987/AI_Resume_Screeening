@@ -1,15 +1,15 @@
-# 🧠 AI-Powered Resume Screening & Job Role Prediction
+# AI-Powered Resume Screening & Job Role Prediction
 
 An end-to-end Machine Learning + Deep Learning project that automates resume screening and predicts the most suitable job category based on the resume content. Built using Python, NLP, Scikit-learn, Deep Learning, and Flask.
 
-## 🔍 Project Overview
+## Project Overview
 
 This project simulates a real-world HR tool that:
 - Cleans and processes resumes
 - Predicts the most relevant job role (e.g., Data Science, HR, Finance)
 - Provides a web interface to paste resumes and get instant predictions
 
-## 📁 Files Included
+## Files Included
 
 - `AI-Powered Resume Screening.ipynb` → Full training & evaluation notebook
 - `app.py` → Flask backend for deployment
@@ -20,7 +20,7 @@ This project simulates a real-world HR tool that:
 - `requirements.txt` → Required libraries
 - `AI-Powered Resume Screening.pdf` → PDF version of full notebook
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - Python
 - Natural Language Processing (NLP)
@@ -42,7 +42,7 @@ This project simulates a real-world HR tool that:
 4. Open in browser:
    http://127.0.0.1:5000/
 
-🧠 Model Pipeline
+Model Pipeline
 
 Step 1: Clean text (remove links, special characters, etc.)
 
@@ -54,7 +54,7 @@ Step 4: Label encode the categories
 
 Step 5: Predict from user input (resume)
 
-✅ Features
+Features
 
 Predicts job category from raw resume text
 
@@ -66,7 +66,7 @@ Accuracy > 98% with Random Forest & Deep Learning
 
 Easy to customize or extend
 
-💼 Use Case
+Use Case
 
 This project demonstrates real-world AI in HR automation and is perfect for showcasing:
 
