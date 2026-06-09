@@ -30,7 +30,7 @@ This project simulates a real-world HR tool that:
 - HTML (for UI)
 - Jupyter Notebook
 
-## 🚀 How to Run Locally
+## How to Run Locally
 
 1. Clone the repo or download ZIP
 2. Install dependencies:
